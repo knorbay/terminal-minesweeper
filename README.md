@@ -8,14 +8,13 @@ A terminal-based Minesweeper game written in Python.
   - Easy (8x8)
   - Medium (12x12)
   - Hard (16x16)
-- Random mine generation
-- Win/Lose detection
-- Input validation
-- Modular code structure
-
+  - Random mine generation
+  - Automatic adjacent mine counting
+  - Win detection
+  - Reveal all mines when the player loses
+  - Console-based gameplay
 ## Planned Features
 
-- Adjacent mine counter
 - Automatic opening of empty cells
 - Flag system
 - Better game over screen
